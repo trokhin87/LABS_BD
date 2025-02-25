@@ -1,0 +1,9 @@
+{
+  "Host": "31.58.137.132",
+  "Port": "5051",
+  "Username_junior": "trokhin_junior",
+  "Username_admin": "trokhin_admin",
+  "Password_junior": "trokhin_junior",
+  "Password_admin": "trokhin_admin",
+  "Database": "students"
+}
